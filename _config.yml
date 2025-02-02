@@ -12,9 +12,9 @@ title                    : "Welcome to Yongjie's Homepage"
 title_separator          : "-"
 name                     : &name "Yongjie Yang"
 description              : &description "4th year Ph.D. Candidate in University of Pittsburgh"
-url                      : https://lijinlunbeng.github.io/yangyongjie.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yangyongjie.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lijinlunbeng/yangyongjie.github.io"
+repository               : "yangyongjie.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
