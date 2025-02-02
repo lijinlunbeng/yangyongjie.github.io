@@ -34,22 +34,23 @@ Publications
 
 \* *co‑first author*
 
-- <strong>[MobiCom'24]</strong> Exploring the Feasibility of Remote Cardiac Auscultation Using Earphones
-Tao Chen, <strong>**Yongjie Yang**</strong>, Xiaoran Fan, Xiuzhen Guo, Jie Xiong, Longfei Shangguan
-<em>MobiCom 2024, D.C., USA, Oct 2024</em>
-<span style="color: red; font-weight: bold;">Best Paper Award (1 out of all submissions)</span>
+<p><strong>[MobiCom'24]</strong> Exploring the Feasibility of Remote Cardiac Auscultation Using Earphones</p>
+<p>Tao Chen, <strong>Yongjie Yang</strong>, Xiaoran Fan, Xiuzhen Guo, Jie Xiong, Longfei Shangguan</p>
+<p><em>MobiCom 2024, D.C., USA, Oct 2024</em></p>
+<p><span style="color: red; font-weight: bold;">Best Paper Award (1 out of all submissions)</span></p>
 
-- <p><strong>[MobiSys'24]</strong> Enabling Hands-Free Voice Assistant Activation on Earphones</p>
-<p>Tao Chen, <strong>**Yongjie Yang**</strong>, Chonghao Qiu, Xiaoran Fan, Xiuzhen Guo, Longfei Shangguan</p>
+<p><strong>[MobiSys'24]</strong> Enabling Hands-Free Voice Assistant Activation on Earphones</p>
+<p>Tao Chen, <strong>Yongjie Yang</strong>, Chonghao Qiu, Xiaoran Fan, Xiuzhen Guo, Longfei Shangguan</p>
 <p><em>MobiSys 2024, Tokyo, Japan, June 2024</em></p>
 
-- <strong>[Pervasive]</strong> Towards Next-Generation Human Computer Interface Based On Earables
-<p><strong>**Yongjie Yang**</strong>, Tao Chen, Longfei Shangguan</p>
-<em>IEEE Pervasive Computing</em>
+<p><strong>[Pervasive]</strong> Towards Next-Generation Human Computer Interface Based On Earables</p>
+<p><strong>Yongjie Yang</strong>, Tao Chen, Longfei Shangguan</p>
+<p><em>IEEE Pervasive Computing</em></p>
 
-- <strong>[CHI'24]</strong> MAF: Exploring Mobile Acoustic Field for Hand-to-Face Gesture Interactions
-<p><strong>**Yongjie Yang**</strong>, Tao Chen, Zipan Huang, Xiuzhen Guo, Longfei Shangguan</p>
-<em>CHI 2024, Hawaiʻi, USA, May 2024</em>
+<p><strong>[CHI'24]</strong> MAF: Exploring Mobile Acoustic Field for Hand-to-Face Gesture Interactions</p>
+<p><strong>Yongjie Yang</strong>, Tao Chen, Zipan Huang, Xiuzhen Guo, Longfei Shangguan</p>
+<p><em>CHI 2024, Hawaiʻi, USA, May 2024</em></p>
+
 
 Awards
 ======
