@@ -34,22 +34,25 @@ Publications
 
 \* *co‑first author*
 
-- <strong>[MobiCom'24]</strong> Exploring the Feasibility of Remote Cardiac Auscultation Using Earphones — Tao Chen, <strong>**Yongjie Yang**</strong>, Xiaoran Fan, Xiuzhen Guo, Jie Xiong, Longfei Shangguan — <em>MobiCom 2024, D.C., USA, Oct 2024</em> — <span style="color: red; font-weight: bold;">Best Paper Award (1 out of all submissions)</span>
+- <strong>[MobiCom'24]</strong> Exploring the Feasibility of Remote Cardiac Auscultation Using Earphones
+Tao Chen, <strong>**Yongjie Yang**</strong>, Xiaoran Fan, Xiuzhen Guo, Jie Xiong, Longfei Shangguan
+<em>MobiCom 2024, D.C., USA, Oct 2024</em>
+<span style="color: red; font-weight: bold;">Best Paper Award (1 out of all submissions)</span>
 
-- Sheng Li, Qitao Tan, **Yue Dai**, Zhenglun Kong, Tianyu Wang, Jun Liu, Ao Li, Ninghao Liu, Yufei Ding, Xulong Tang, Geng Yuan. 2025. Mutual Effort for Efficiency: A Similarity‑based Token Pruning for Vision Transformers in Self‑Supervised Learning. The Thirteenth International Conference on Learning Representations (**ICLR'2025**).
+- <strong>[MobiSys'24]</strong> Enabling Hands-Free Voice Assistant Activation on Earphones
+Tao Chen, <strong>**Yongjie Yang**</strong>, Chonghao Qiu, Xiaoran Fan, Xiuzhen Guo, Longfei Shangguan
+<em>MobiSys 2024, Tokyo, Japan, June 2024</em>
 
-- **Yue Dai**, Youtao Zhang, Xulong Tang. 2023. CEGMA: Coordinated elastic graph matching acceleration for graph matching networks. 2023 IEEE International Symposium on High‑Performance Computer Architecture (**HPCA'2023**).
+- <strong>[Pervasive]</strong> Towards Next-Generation Human Computer Interface Based On Earables
+<strong>**Yongjie Yang**</strong>, Tao Chen, Longfei Shangguan
+<em>IEEE Pervasive Computing</em>
 
-- **Yue Dai**, Xulong Tang, Youtao Zhang. 2023. FlexGM: An Adaptive Runtime System to Accelerate Graph Matching Networks on GPUs. 2023 IEEE 41st International Conference on Computer Design (**ICCD'2023**).
+- <strong>[CHI'24]</strong> MAF: Exploring Mobile Acoustic Field for Hand-to-Face Gesture Interactions
+<strong>**Yongjie Yang**</strong>, Tao Chen, Zipan Huang, Xiuzhen Guo, Longfei Shangguan
+<em>CHI 2024, Hawaiʻi, USA, May 2024</em>
 
-- Sheng Li\*, Geng Yuan\*, **Yue Dai***, Youtao Zhang, Yanzhi Wang, Xulong Tang. 2023. Smartfrz: An efficient training framework using attention‑based layer freezing. The 11th International Conference on Learning Representations (**ICLR'2023**).
+Awards
+======
+  <li><strong>Student Travel Grant</strong> – MobiSys, 2024, Japan</li>
+  <li><strong>Student Fellowship</strong> – School of Computing and Information, 2025, Pittsburgh</li>
 
-- **Yue Dai**, Xulong Tang, Youtao Zhang. 2022. An efficient segmented quantization for graph neural networks. CCF Transactions on High Performance Computing (**THPC'2023**), 4(4), 461‑473.
-
-- Zhexiong Liu\*, Meiqi Guo\*, **Yue Dai***, Diane Litman. 2022. ImageArg: A multi‑modal tweet dataset for image persuasiveness mining. Proceedings of the 9th Workshop on Argument Mining at International Conference on Computational Linguistics (**COLING'2022**).
-
-- Sheng Li, Geng Yuan, Yawen Wu, **Yue Dai**, Chao Wu, Alex K Jones, Jingtong Hu, Yanzhi Wang, Xulong Tang. 2024. EdgeOL: Efficient in‑situ Online Learning on Edge Devices. arXiv preprint arXiv:2401.16694.
-
-- Justin Brody, Samuel Barham, **Yue Dai**, Christopher Maxey, Donald Perlis, David Sekora, Jared Shamwell. 2016. Reasoning with grounded self‑symbols for human‑robot interaction. 2016 AAAI Fall Symposium Series.
-
-- Xuejun Liu, Haiying Luan, Wenbai Chen, **Yue Dai**, Jiandong Liu, Bo Lan. 2014. Electrical nonlinearity pre‑compensation for CO‑OFDM system. Optik, 125(2), 616‑619.
