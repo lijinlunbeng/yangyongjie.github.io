@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+title: "Teaching Assistant for Data Structures"
+type: "Teaching"
+school: "University of Massachusetts Amherst"
+venue: "University of Massachusetts Amherst, Department of Computer Science"
 date: 2014-01-01
-location: "City, Country"
+location: "Amherst, MA"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Supported students in implementing and analyzing fundamental data structures in Java. Conducted weekly lab sessions and graded assignments.
