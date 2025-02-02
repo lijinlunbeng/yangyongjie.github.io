@@ -14,9 +14,11 @@ I am a 4th year Ph.D. student in the Department of Computer Science at the Unive
 
 My research interests lie in mobile computing, signal processing, circuit design, and PCB design, with a focus on applications in human healthcare and interaction. My vision is to develop innovative sensing and computation technologies on commercial mobile, wearable, and customized hardware devices to enhance human convenience, intelligence, health, and safety. Currently, my work focuses on developing novel systems and applications that interact with acoustic signals and physical objects, including pioneering projects in Earable technology.
 
+<!-- 
 <p style="color: MediumSeaGreen; font-style: italic; font-weight: bold;">
   🚀 I will be joining Bosch this summer as an intern in sensing hardware research engineering in Sunnyvale, CA.
 </p>
+-->
 
 [Email](yoy28@pitt.edu)/[Google Scholar](https://scholar.google.com/citations?user=EPop_bEAAAAJ&hl=en)/[Linkedin](https://www.linkedin.com/in/yongjie-yang-60b427183/)
 
