@@ -21,7 +21,7 @@ repository               : "lijinlunbeng/yangyongjie.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/editing-talk.png"
+  avatar           : "yongjie_profile_photo.jpg"
   name             : "Yongjie Yang 「杨永杰」"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in University of Pittsburgh"
