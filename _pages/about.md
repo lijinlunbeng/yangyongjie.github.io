@@ -22,20 +22,19 @@ My research interests lie in mobile computing, signal processing, circuit design
 
 News
 ======
-_[01/2025]_ One paper is accepted by **ASPLOS2025**. Thanks to all the collaborators!\
-_[01/2025]_ One paper is accepted by **ICLR2025**. Thanks to all the collaborators!\
-_[08/2023]_ One paper is accepted by **ICCD2023**. Thanks to all the collaborators!\
-_[01/2023]_ One paper is accepted by **ICLR2023** _(spotlight)_. Thanks to all the collaborators!\
-_[10/2022]_ One paper is accepted by **HPCA2023**. Thanks to all the collaborators!\
-_[08/2022]_ One paper is accepted by **ArgMining2022** _(best paper)_. Thanks to all the collaborators!\
-_[06/2022]_ One paper is accepted by **CCF Transactions on High Performance Computing**. Thanks to all the collaborators!
+_[11/2024]_ Asclepius won <span style="color: red; font-weight: bold;">Best Paper Award</span> at **MobiCom 2024**! Thanks to all the collaborators!
+_[11/2024]_ Vision paper "Towards Next-Generation Human Computer Interface Based On Earables" now accepted by **IEEE Pervasive Computing**. Thanks to all the collaborators!\
+_[03/2024]_ EarVoice is accepted by **MobiSys 2023**. Thanks to all the collaborators!\
+_[01/2024]_ MAF is accepted by **CHI 2024**. Thanks to all the collaborators!\
+_[11/2023]_ Asclepius is accepted by **MobiCom 2024**. Thanks to all the collaborators!\
+_[10/2022]_ Two posters are accepted by **SenSys 2022**. Thanks to all the collaborators!\
 
 Publications
 ======
 
 \* *co‑first author*
 
-- **Yue Dai**, Xulong Tang, Youtao Zhang. 2025. Cascade: A Dependency‑Aware Efficient Training Framework for Temporal Graph Neural Network. 2025 ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS'2025**).
+- <strong>[MobiCom'24]</strong> Exploring the Feasibility of Remote Cardiac Auscultation Using Earphones — Tao Chen, <strong>**Yongjie Yang**</strong>, Xiaoran Fan, Xiuzhen Guo, Jie Xiong, Longfei Shangguan — <em>MobiCom 2024, D.C., USA, Oct 2024</em> — <span style="color: red; font-weight: bold;">Best Paper Award (1 out of all submissions)</span>
 
 - Sheng Li, Qitao Tan, **Yue Dai**, Zhenglun Kong, Tianyu Wang, Jun Liu, Ao Li, Ninghao Liu, Yufei Ding, Xulong Tang, Geng Yuan. 2025. Mutual Effort for Efficiency: A Similarity‑based Token Pruning for Vision Transformers in Self‑Supervised Learning. The Thirteenth International Conference on Learning Representations (**ICLR'2025**).
 
