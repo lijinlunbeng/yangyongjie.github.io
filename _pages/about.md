@@ -27,7 +27,7 @@ _[11/2024]_ Vision paper "Towards Next-Generation Human Computer Interface Based
 _[03/2024]_ EarVoice is accepted by **MobiSys 2023**. Thanks to all the collaborators!\
 _[01/2024]_ MAF is accepted by **CHI 2024**. Thanks to all the collaborators!\
 _[11/2023]_ Asclepius is accepted by **MobiCom 2024**. Thanks to all the collaborators!\
-_[10/2022]_ Two posters are accepted by **SenSys 2022**. Thanks to all the collaborators!\
+_[10/2022]_ Two posters are accepted by **SenSys 2022**. Thanks to all the collaborators!
 
 Publications
 ======
