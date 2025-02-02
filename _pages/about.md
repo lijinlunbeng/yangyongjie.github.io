@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-I am a 4th year Ph.D. student in the Department of Computer Science at the University of Pittsburgh, advised by [Dr. Longfei Shangguan](https://shanggdlk.github.io/) and working closely with [Dr. Chen Tao](https://tachen-cs.github.io/).  I received my M.S. in Electrical and Electronics(ECE) from Boston University and my B.E., majoring in ECE at UMASS, Amherst.
+I am a 4th year Ph.D. student in the Department of Computer Science at the University of Pittsburgh, advised by [Dr. Longfei Shangguan](https://shanggdlk.github.io/) and working closely with [Dr. Chen Tao](https://tachen-cs.github.io/).  I received my M.S. in Electrical and Computer Engineering (ECE) from Boston University and a B.S. in ECE from the University of Massachusetts, Amherst.
 
 My research interests lie in mobile computing, signal processing, circuit design, and PCB design, with a focus on applications in human healthcare and interaction. My vision is to develop innovative sensing and computation technologies on commercial mobile, wearable, and customized hardware devices to enhance human convenience, intelligence, health, and safety. Currently, my work focuses on developing novel systems and applications that interact with acoustic signals and physical objects, including pioneering projects in Earable technology.
 
