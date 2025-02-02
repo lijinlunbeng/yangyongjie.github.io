@@ -7,6 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="teaching">
+  <h1>Teaching</h1>
+
+  {% assign schools = site.teaching | group_by: "school" %}
+  {% for school in schools %}
+    <h2>{{ school.name }}</h2>
+    <hr>
+    {% for post in school.items %}
+      <div class="teaching__item">
+        <h3>{{ post.title }}</h3>
+        <p><strong>{{ post.venue }}</strong></p>
+        <p><em>{{ post.location }}</em> ({{ post.date | date: "%B %Y" }})</p>
+        <p>{{ post.content | markdownify }}</p>
+      </div>
+    {% endfor %}
+  {% endfor %}
+</div>
