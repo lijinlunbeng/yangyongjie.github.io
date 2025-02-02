@@ -12,7 +12,7 @@ title                    : "Welcome to Yongjie's Homepage"
 title_separator          : "-"
 name                     : &name "Yongjie Yang"
 description              : &description "4th year Ph.D. Candidate in University of Pittsburgh"
-url                      : https://yud42.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lijinlunbeng.github.io/yangyongjie.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lijinlunbeng/yangyongjie.github.io"
 
