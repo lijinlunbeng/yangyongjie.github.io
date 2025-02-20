@@ -46,7 +46,7 @@ Publications
 <p>Tao Chen, <strong>Yongjie Yang</strong>, Chonghao Qiu, Xiaoran Fan, Xiuzhen Guo, Longfei Shangguan</p>
 <p><em>MobiSys 2024, Tokyo, Japan, June 2024</em></p>
 
-<p><strong>[Pervasive]</strong> Towards Next-Generation Human Computer Interface Based On Earables</p>
+<p><strong>[IEEE Pervasive]</strong> Towards Next-Generation Human Computer Interface Based On Earables</p>
 <p><strong>Yongjie Yang</strong>, Tao Chen, Longfei Shangguan</p>
 <p><em>IEEE Pervasive Computing</em></p>
 
