@@ -28,7 +28,7 @@ _[05/2025]_ LeekyFeeder is accpeted by **SenSys 2025**. Thanks to all the collab
 _[01/2025]_ Our group has an exciting opportunity to visit Senegal, Africa, for research exploration, focusing on developing low-power, low-cost devices to support local underserved communities.\
 _[11/2024]_ Asclepius won <span style="color: red; font-weight: bold;">Best Paper Award</span> at **MobiCom 2024**! Thanks to all the collaborators!\
 _[11/2024]_ Vision paper "Towards Next-Generation Human Computer Interface Based On Earables" now accepted by **IEEE Pervasive Computing**. Thanks to all the collaborators!\
-_[03/2024]_ EarVoice is accepted by **MobiSys 2023**. Thanks to all the collaborators!\
+_[03/2024]_ EarVoice is accepted by **MobiSys 2024**. Thanks to all the collaborators!\
 _[01/2024]_ MAF is accepted by **CHI 2024**. Thanks to all the collaborators!\
 _[11/2023]_ Asclepius is accepted by **MobiCom 2024**. Thanks to all the collaborators!\
 _[10/2022]_ Two posters are accepted by **SenSys 2022**. Thanks to all the collaborators!
