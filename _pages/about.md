@@ -40,7 +40,7 @@ Publications
 
 <p><strong>[SenSys'25]</strong> LeekyFeeder: In-Air Gesture Control Through Leaky Acoustic Waves</p>
 <p><strong>Yongjie Yang</strong>, Tao Chen, Zhenlin An, Shirui Cao, Xiaoran Fan, Longfei Shangguan</p>
-<p><em>SenSys 2025, Irwin, USA, May 2025</em></p>
+<p><em>SenSys 2025, Irvine, USA, May 2025</em></p>
 
 <p><strong>[MobiCom'24]</strong> Exploring the Feasibility of Remote Cardiac Auscultation Using Earphones</p>
 <p>Tao Chen, <strong>Yongjie Yang</strong>, Xiaoran Fan, Xiuzhen Guo, Jie Xiong, Longfei Shangguan</p>
