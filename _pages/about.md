@@ -24,7 +24,7 @@ My research interests lie in mobile computing, signal processing, circuit design
 
 News
 ======
-_[05/2025]_ LeekyFeeder is accpeted by **SenSys 2025**. Thanks to all the collaborators!\
+_[05/2025]_ LeakyFeeder is accpeted by **SenSys 2025**. Thanks to all the collaborators!\
 _[01/2025]_ Our group has an exciting opportunity to visit Senegal, Africa, for research exploration, focusing on developing low-power, low-cost devices to support local underserved communities.\
 _[11/2024]_ Asclepius won <span style="color: red; font-weight: bold;">Best Paper Award</span> at **MobiCom 2024**! Thanks to all the collaborators!\
 _[11/2024]_ Vision paper "Towards Next-Generation Human Computer Interface Based On Earables" now accepted by **IEEE Pervasive Computing**. Thanks to all the collaborators!\
@@ -38,7 +38,7 @@ Publications
 
 \* *co‑first author*
 
-<p><strong>[SenSys'25]</strong> LeekyFeeder: In-Air Gesture Control Through Leaky Acoustic Waves</p>
+<p><strong>[SenSys'25]</strong> LeakyFeeder: In-Air Gesture Control Through Leaky Acoustic Waves</p>
 <p><strong>Yongjie Yang</strong>, Tao Chen, Zhenlin An, Shirui Cao, Xiaoran Fan, Longfei Shangguan</p>
 <p><em>SenSys 2025, Irvine, USA, May 2025</em></p>
 
