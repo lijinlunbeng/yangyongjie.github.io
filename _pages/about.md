@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-I am a 4th year Ph.D. student in the Department of Computer Science at the University of Pittsburgh, advised by [Dr. Longfei Shangguan](https://shanggdlk.github.io/) and working closely with [Dr. Chen Tao](https://tachen-cs.github.io/).  I received my M.S. in Electrical and Computer Engineering (ECE) from Boston University and a B.S. in ECE from the University of Massachusetts, Amherst.
+I am a 4th year Ph.D. student in the Department of Computer Science at the University of Pittsburgh, advised by [Dr. Longfei Shangguan](https://shanggdlk.github.io/) and working closely with [Dr. Tao Chen](https://tachen-cs.github.io/).  I received my M.S. in Electrical and Computer Engineering (ECE) from Boston University and a B.S. in ECE from the University of Massachusetts, Amherst.
 
 My research interests lie in mobile computing, signal processing, circuit design, and PCB design, with a focus on applications in human healthcare and interaction. My vision is to develop innovative sensing and computation technologies on commercial mobile, wearable, and customized hardware devices to enhance human convenience, intelligence, health, and safety. Currently, my work focuses on developing novel systems and applications that interact with acoustic signals and physical objects, including pioneering projects in Earable technology.
 
@@ -24,6 +24,7 @@ My research interests lie in mobile computing, signal processing, circuit design
 
 News
 ======
+_[05/2025]_ **Selected as a MobiSys 2025 Rising Star!** I'm honored to be named one of the Rising Stars at this year's MobiSys 2025 Conference. Grateful for the support of my advisor and the help from my labmates throughout the journey. See you at Disney World!
 _[05/2025]_ LeakyFeeder is accpeted by **SenSys 2025**. Thanks to all the collaborators!\
 _[01/2025]_ Our group has an exciting opportunity to visit Senegal, Africa, for research exploration, focusing on developing low-power, low-cost devices to support local underserved communities.\
 _[11/2024]_ Asclepius won <span style="color: red; font-weight: bold;">Best Paper Award</span> at **MobiCom 2024**! Thanks to all the collaborators!\
