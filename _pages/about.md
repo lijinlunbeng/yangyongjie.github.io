@@ -64,7 +64,7 @@ Publications
 Awards
 ======
   <li><strong>Rising Star Award</strong> – MobiSys, 2025, Anaheim, USA</li>
-  <li><strong>Student Fellowship</strong> – School of Computing and Information, 2025, Pittsburgh， USA</li>
+  <li><strong>Student Fellowship</strong> – School of Computing and Information, 2025, Pittsburgh，USA</li>
   <li><strong>Student Travel Grant</strong> – MobiSys, 2024, Japan</li>
   
 
