@@ -24,7 +24,7 @@ My research interests lie in mobile computing, signal processing, circuit design
 
 News
 ======
-_[05/2025]_ **Selected as a MobiSys 2025 Rising Star!** I'm honored to be named one of the Rising Stars at this year's MobiSys 2025 Conference. Grateful for the support of my advisor and the help from my labmates throughout the journey. See you at Disney World!\
+_[05/2025]_ **Selected as a MobiSys 2025 Rising Star!** I'm honored to be named one of the Rising Stars at this year's MobiSys 2025 Conference. Grateful for the support of my advisor and the help from my labmates throughout the journey. See you at LA Disney World!\
 _[05/2025]_ LeakyFeeder is accpeted by **SenSys 2025**. Thanks to all the collaborators!\
 _[01/2025]_ Our group has an exciting opportunity to visit Senegal, Africa, for research exploration, focusing on developing low-power, low-cost devices to support local underserved communities.\
 _[11/2024]_ Asclepius won <span style="color: red; font-weight: bold;">Best Paper Award</span> at **MobiCom 2024**! Thanks to all the collaborators!\
@@ -63,6 +63,8 @@ Publications
 
 Awards
 ======
+  <li><strong>Rising Star Award</strong> – MobiSys, 2025, Anaheim, USA</li>
+  <li><strong>Student Fellowship</strong> – School of Computing and Information, 2025, Pittsburgh， USA</li>
   <li><strong>Student Travel Grant</strong> – MobiSys, 2024, Japan</li>
-  <li><strong>Student Fellowship</strong> – School of Computing and Information, 2025, Pittsburgh</li>
+  
 
