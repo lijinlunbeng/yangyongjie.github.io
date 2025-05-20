@@ -43,23 +43,19 @@ Publications
 <p><strong>Yongjie Yang</strong>, Tao Chen, Zhenlin An, Shirui Cao, Xiaoran Fan, Longfei Shangguan</p>
 <p><em>SenSys 2025, Irvine, USA, May 2025</em></p>
 <p><span style="color: red; font-weight: bold;">Best Paper Award Nominees</span></p>
-<p></p>
 
 <p><strong>[MobiCom'24]</strong> Exploring the Feasibility of Remote Cardiac Auscultation Using Earphones</p>
 <p>Tao Chen, <strong>Yongjie Yang</strong>, Xiaoran Fan, Xiuzhen Guo, Jie Xiong, Longfei Shangguan</p>
 <p><em>MobiCom 2024, D.C., USA, Oct 2024</em></p>
 <p><span style="color: red; font-weight: bold;">Best Paper Award (1 out of all submissions)</span></p>
-<p></p>
 
 <p><strong>[MobiSys'24]</strong> Enabling Hands-Free Voice Assistant Activation on Earphones</p>
 <p>Tao Chen, <strong>Yongjie Yang</strong>, Chonghao Qiu, Xiaoran Fan, Xiuzhen Guo, Longfei Shangguan</p>
 <p><em>MobiSys 2024, Tokyo, Japan, June 2024</em></p>
-<p></p>
 
 <p><strong>[IEEE Pervasive]</strong> Towards Next-Generation Human Computer Interface Based On Earables</p>
 <p><strong>Yongjie Yang</strong>, Tao Chen, Longfei Shangguan</p>
 <p><em>IEEE Pervasive Computing</em></p>
-<p></p>
 
 <p><strong>[CHI'24]</strong> MAF: Exploring Mobile Acoustic Field for Hand-to-Face Gesture Interactions</p>
 <p><strong>Yongjie Yang</strong>, Tao Chen, Zipan Huang, Xiuzhen Guo, Longfei Shangguan</p>
