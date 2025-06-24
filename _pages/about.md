@@ -16,7 +16,7 @@ My research interests lie in mobile computing, signal processing, circuit design
 
  
 <p style="color: MediumSeaGreen; font-style: italic; font-weight: bold;">
-  🚀 I will be joining Bosch in Sunnyvale, CA, as a Sensing Hardware Research Engineer Intern.
+  🚀 I have started my internship at Bosch in Sunnyvale, CA, as a Sensing Hardware Research Engineer Intern.
 </p>
 
 
